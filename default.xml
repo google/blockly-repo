@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="origin"
+          fetch="https://github.com/RoboErikG/" />
+
+  <default remote="origin"
+           revision="refs/heads/master" />
+
+  <project name="blocklypp" remote="origin" />
+</manifest>
