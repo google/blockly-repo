@@ -3,7 +3,7 @@
   <remote name="origin"
           fetch="https://github.com/RoboErikG/" />
   <remote name="google"
-          fetch="https://github.com/google/"
+          fetch="https://github.com/google/" />
 
   <default remote="origin"
            revision="refs/heads/master" />
