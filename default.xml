@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin"
-          fetch="https://github.com/RoboErikG/" />
-  <remote name="google"
           fetch="https://github.com/google/" />
 
   <default remote="origin"
            revision="refs/heads/master" />
 
-  <project name="blockly-android" path="android" remote="google" />
+  <project name="blockly-android" path="android" />
   <project name="blockly-ios" path="ios" />
   <project name="blockly-tools" path="tools" />
-  <project name="blockly" remote="google" path="web" />
+  <project name="blockly" path="web" />
 </manifest>
