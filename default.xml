@@ -6,7 +6,7 @@
   <default remote="origin"
            revision="refs/heads/master" />
 
-  <project name="blockly-android" path="android" />
+  <project name="blockly-android" path="android" revision="refs/heads/develop" />
   <project name="blockly-ios" path="ios" />
   <project name="blockly-tools" path="tools" />
   <project name="blockly" path="web" />
